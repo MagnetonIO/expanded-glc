@@ -10,8 +10,8 @@ This project integrates the Langlands Functor \( LG \) into the Universal Catego
 
 ## References
 
-- Gaitsgory, D., Raskin, S., \textit{Proof of the Geometric Langlands Conjecture V}, available at: [MPIM Resource](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/)
-- Gaitsgory, D., \textit{Geometric Langlands Correspondence}, Max Planck Institute, available at: [MPIM Resource](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/)
+- Gaitsgory, D., Raskin, S., *Proof of the Geometric Langlands Conjecture V*. Available at: [MPIM Resource](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/)
+- Gaitsgory, D., *Geometric Langlands Correspondence*. Max Planck Institute. Available at: [MPIM Resource](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/)
 
 ## How to Run
 

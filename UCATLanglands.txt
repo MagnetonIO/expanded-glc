@@ -1,0 +1,13 @@
+structure LanglandsFunctor(LG) {
+    operation apply: Sheaf → Sheaf
+    axiom equivalence: ∀ s ∈ Sheaf, apply(s) ≃ FourierMukaiTransform(s)
+
+    functor LG {
+        input: Sheaf
+        output: Sheaf
+        definition: apply(input)
+    }
+}
+
+let sheaf1 = Sheaf(["s1", "s2"], "BunG")
+let result = LG.apply(sheaf1)  -- Resulting sheaf after the Langlands transformation
